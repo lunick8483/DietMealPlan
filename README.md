@@ -1,1 +1,3 @@
 # DietMealPlan
+This application will use ChatGPT to generate daily meal plan. Using the application will generate some pictures for the meal as well.
+https://oaidalleapiprodscus.blob.core.windows.net/private/org-BmudXYmg69XyOfVEzZ2O8GrC/user-6Q9Cyhm4YPd4KFhbUFlfRePz/img-MoQSTPmFXt0LWBMvD7RaGbmx.png?st=2023-07-27T19%3A00%3A24Z&se=2023-07-27T21%3A00%3A24Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2023-07-27T15%3A35%3A01Z&ske=2023-07-28T15%3A35%3A01Z&sks=b&skv=2021-08-06&sig=1orYMahB45rAoTMT3jss5bd4tmLV6QJvPZVRPkR0QJE%3D
