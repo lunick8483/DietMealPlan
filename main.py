@@ -3,7 +3,7 @@ import openai
 import requests
 from PIL import Image
 
-api_key = "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"
+api_key = ""
 openai.api_key = api_key
 def create_meals(ingredients, kcal=2000):
     prompt = f''' Create a healthy daily meal plan for breakfast, lunch, and dinner based on the following ingredients {ingredients}.
